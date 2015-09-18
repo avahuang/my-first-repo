@@ -69,6 +69,7 @@ function grabData() {
 }
 
     // send it through the websocket to printer
+    //I love you ava babe
 
 
 
