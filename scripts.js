@@ -53,7 +53,7 @@ function grabData() {
     // log it to console for sanity check
     console.log(diagnosisInfo);
 
-
+   //YIFAN AND KAT WERE HERE//
 
 
     // show it on the page >> this should show only show 3 results: 
